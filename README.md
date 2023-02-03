@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] Will add more later...
 
 ## Video Walkthrough
 
@@ -24,17 +24,16 @@ Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/5gYBA53.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I love how simple it is to design using Android studio. I have some ideas for some silly games with this!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Alif Jakir]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
